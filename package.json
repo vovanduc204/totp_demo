@@ -10,7 +10,7 @@
     "@testing-library/react": "^13.0.0",
     "@testing-library/user-event": "^13.2.1",
     "amazon-cognito-identity-js": "^6.3.6",
-    "aws-sdk": "^2.1470.0",
+    "aws-sdk": "^2.1692.0",
     "axios": "^1.5.1",
     "cors": "^2.8.5",
     "crypto": "npm:crypto-browserify",
