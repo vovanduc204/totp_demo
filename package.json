@@ -5,10 +5,10 @@
   "dependencies": {
     "@emotion/react": "^11.11.1",
     "@emotion/styled": "^11.11.0",
-    "@mui/material": "^5.14.12",
+    "@mui/material": "^7.0.0",
     "@testing-library/jest-dom": "^5.14.1",
-    "@testing-library/react": "^13.0.0",
-    "@testing-library/user-event": "^13.2.1",
+    "@testing-library/react": "^16.0.0",
+    "@testing-library/user-event": "^14.0.0",
     "amazon-cognito-identity-js": "^6.3.6",
     "aws-sdk": "^2.1470.0",
     "axios": "^1.5.1",
